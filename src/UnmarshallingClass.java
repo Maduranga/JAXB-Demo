@@ -15,10 +15,7 @@ public class UnmarshallingClass {
 			System.out.println("Person name is " + systemObject.name);
 		} catch (Exception e) {
 			e.printStackTrace();
-		}
-
-		//System.out.println("Person name is ");
-		
+		}	
 	}
 
 }
