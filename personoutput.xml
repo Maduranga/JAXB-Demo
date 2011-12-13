@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Person name="Maduranga">
+    <Person_age>30</Person_age>
+    <company>SLB</company>
+    <records>Intern</records>
+    <records>Engineer</records>
+    <records>Project leader</records>
+</Person>
