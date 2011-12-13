@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Person name="Maduranga">
-    <Person_age>30</Person_age>
-    <company>SLB</company>
-    <records>Intern</records>
-    <records>Engineer</records>
-    <records>Project leader</records>
+<Person name="Duffy Duck">
+    <Person_age>6</Person_age>
+    <company>Disney</company>
+    <records>prototype</records>
+    <records>Experimental</records>
+    <records>commercialized</records>
 </Person>
